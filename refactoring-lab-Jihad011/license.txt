@@ -1,0 +1,6 @@
+The structure of this code was originally taken from Refactoring: Improving the
+Design of Existing Code by Martin Fowler.  At the time of this writing, it is
+available through the Johns Hopkins Libraries website.  This code is intended
+for educational purposes only.  Its use in lecture as a demonstration of
+refactoring is believed to be fair use of a derivative of a copyrighted work.
+ 
